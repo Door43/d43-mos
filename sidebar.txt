@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mos:home|Door43 (mos)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mos|d43-mos repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mos/archive/master.zip|d43-mos.zip]]
+
+**Recent Changes**
+{{changes>ns = mos}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mos|Ethnologue data]]
+
